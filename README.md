@@ -8,7 +8,7 @@ Se consideră rețeaua Petri temporizată din figura de mai jos. Aplicația care
 (synchronized), apoi cu **Lock** si apoi cu **Semaphore**, pentru elementul de sincronizare din locația
 P14.
 Sincronizarea din T12 se va implementa cu ajutorul clasei **CountDownLatch** si apoi
-CyclicBarrier
+**CyclicBarrier**.
 
 <img src="docs/ex1.png" alt="ex1" style="width:50%;" />
 
